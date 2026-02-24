@@ -29,13 +29,21 @@ To design and implement a YouTube-style user interface using only HTML and CSS w
 ---
 
 ## 📂 Project Structure
+  
   │
+  
   ├── youtube.html
+  
   ├── README.md
+  
   │
+  
   ├── styles/
+  
   ├── icons/
+  
   ├── thumbnails/
+  
   └── channel-pictures/
 
 
@@ -45,5 +53,6 @@ To design and implement a YouTube-style user interface using only HTML and CSS w
 - Creating responsive layouts
 - Using Git and GitHub for version control
 - Maintaining professional project documentation
+
 
 
